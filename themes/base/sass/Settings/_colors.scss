@@ -12,8 +12,8 @@ $palettes: (
         link: #999
     ),
     button: (
-        background: #ffc520,
-        background--highlight: #ffc520,
+        background: #ffb300,
+        background--highlight: #ffb300,
         /*
         background--hover: darken(#555, 10%),
         background--highlight-hover: darken(#efe778, 10%),
@@ -42,7 +42,7 @@ $palettes: (
     form: (
         background: #fff,
         border: #eee,
-        border--focus: #ffc520,
+        border--focus: #ffb300,
         color: #555,
         color--highlight: #333,
         label-color: #999
@@ -64,7 +64,7 @@ $palettes: (
     ),
     loader: (
         background: #ffc520,
-        background--highlight: #ffc520
+        background--highlight: #ffb300
     ),
     product: (
         background: #f8f8f8,
